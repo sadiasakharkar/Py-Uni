@@ -6,7 +6,7 @@ screen = turtle.Screen()
 
 # Defining a turtle Instance
 t = turtle.Turtle()
-speed(0)
+speed(0) 
 
 # initially penup()
 t.penup()
